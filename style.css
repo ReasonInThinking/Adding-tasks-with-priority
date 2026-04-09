@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border: none;
+    font-size: 30px;
+    min-width: 70%;
+    margin: 40px auto;
+}
+
+td, th {
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: 1px solid silver;
+}
+
+a {
+    color: #434343;
+    text-decoration: none;
+    cursor: pionter;
+}
+
+form {
+    max-width: 40%;
+    margin: 40px auto;
+}
+
+option, select, input {
+    font-size: 20px;
+}
+
+select {
+    border-radius: 10px;
+    padding: 10px 20px;
+    background: white;
+    cursor: pointer;
+    margin-bottom: 10px;
+    font-size: 20px;
+
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #c4c3c3;
+}
+
+p {
+    text-align: right;
+}
+
+input[type="submit"] {
+    border-radius: 10px;
+    padding: 10px 45px;
+    border: none;
+    font-size: 20px;
+    background-color: #7d80ce;
+    color: white;
+    cursor: pointer;
+} 
+
+@media (max-width: 900px) {
+    form {
+        max-width: 90%;
+    }
+}
