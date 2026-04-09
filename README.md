@@ -22,3 +22,13 @@ CREATE TABLE `targets` (
   `priority` enum('High','Medium','Low') NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+```
+## ⚖️ License
+
+This project is under the **MIT License**.
+
+You can freely use, copy, and modify this code for your own projects. Just keep it as it is — the software comes without any warranties.
+
+
+---
+*Developed with ❤️ as a learning project.*
