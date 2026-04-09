@@ -1,4 +1,4 @@
-# Simple Task Manager for a local server (PHP + MySQL)
+# Simple Task Manager for a local server XAMPP (PHP + MySQL)
 
 A lightweight web application to manage your daily missions. It allows you to add tasks with different priority levels and automatically sorts them by importance and date.
 <img width="1428" height="715" alt="tasks" src="https://github.com/user-attachments/assets/b2157c06-b946-4d73-9eec-e09872b0e0f4" />
